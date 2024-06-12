@@ -2,7 +2,7 @@
 
 My first try of using glsl to create shaders, it contains an ever expanding heart with astonishing palette
 
----
+## ![](shaderVids/heartShader.mp4)
 
 #### Resources:
 
